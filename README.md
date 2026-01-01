@@ -90,3 +90,4 @@ kubectl get ingress -n game-2048
 kubectl get ingress -n game-2048
 kubectl get deploy -n kube-system
 
+end
